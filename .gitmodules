@@ -1,0 +1,3 @@
+[submodule "bicep-modules"]
+	path = bicep-modules
+	url = https://github.com/JohnCarmichael3000/bicep-modules.git
